@@ -12,7 +12,7 @@ Gryte Satas- Postdoctoral Research Associate, Computer Science, Princeton Univer
 Due to Covid-19, all research was done remotely. I would usually work from late morning to late afternoon and then continue later that night for a few hours. For the first few weeks, my days were spent reading relevant research. After that, I spent my days compiling data, coding ways to parse it into a compatible format, running the data through MACHINA, and coding visualization tools for the results. Since the runtime of MACHINA on large datasets proved unreasonable, I frequently met with my mentor or corresponded with those in his lab via Slack about how to solve this problem. Additionally, throughout the entire program, I met twice a week through zoom with my mentor’s research group where they discussed their research and reviewed related papers. Overall, the days were very open-ended, and I was given the power to decide what direction I wanted to take the research as well as the power over the quality of my results. I would recommend others apply to this program if that freedom appeals to you.
 
 # Results
-**Migration Tree**
+**Migration Tree:**
 MACHINA returns a recovered graph of migrations. Each box is a geographic location connected by an edge. The edges can be thought of as a possible transmission of Covid-19. Parallel edges represent a comigration. Comigrations suggest a closer geographic proximity and/or a fewer edges of top flights between countries according to my findings. 
 
 ![image](https://user-images.githubusercontent.com/61328005/96463315-99811c80-11f4-11eb-8d41-9afc9b5afdec.png)
