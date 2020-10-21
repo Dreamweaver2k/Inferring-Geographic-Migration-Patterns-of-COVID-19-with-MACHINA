@@ -18,7 +18,7 @@ MACHINA returns a recovered graph of migrations. Each box is a geographic locati
 ![image](https://user-images.githubusercontent.com/61328005/96463315-99811c80-11f4-11eb-8d41-9afc9b5afdec.png)
 
 **Spread to Common Flight Path Correlation:**
-The more often a migration occurred between the same country pair, the fewer geographic/flight edges separated them.
+For every country pair with an equal number of comigrations, we measured the number of edges between them by running a DFS on our graph. From this we saw that there was a strong negative correlation (Pearson Coefficient = -0.8) between number of edges and number of comigrations. Thus, as the number of edges between geographic locations increased, the number of comigrations decreased.
 
 ![image](https://user-images.githubusercontent.com/61328005/96463379-a9006580-11f4-11eb-86c6-db63fd5cf81d.png)
 
