@@ -13,12 +13,9 @@ Due to Covid-19, all research was done remotely. I would usually work from late 
 
 # Results
 **Migration Tree**
+MACHINA returns a recovered graph of migrations. Each box is a geographic location connected by an edge. The edges can be thought of as a possible transmission of Covid-19. Parallel edges represent a comigration. Comigrations suggest a closer geographic proximity and/or a fewer edges of top flights between countries according to my findings. 
 
 ![image](https://user-images.githubusercontent.com/61328005/96463315-99811c80-11f4-11eb-8d41-9afc9b5afdec.png)
-
-**Geographic Visualization of Tree**
-
-![image](https://user-images.githubusercontent.com/61328005/96463421-b4539100-11f4-11eb-8927-b6de3f3a82d5.png)
 
 **Spread to Common Flight Path Correlation**
 
